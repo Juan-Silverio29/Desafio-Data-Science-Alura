@@ -1,25 +1,30 @@
-# Desafio-Data-Science-Alura
+📊 Descripción del Proyecto
+Este análisis tiene como objetivo evaluar los datos de ventas y productos para obtener información clave sobre distintos aspectos del desempeño de las tiendas. A continuación, se detallan los puntos principales abordados:
 
-Descripción del Proyecto
-En este análisis, se nos ha encomendado evaluar los datos de ventas y productos con el fin de proporcionar información clave sobre los siguientes aspectos:
+Ingreso total por tienda: Identificación de la tienda con mayores ingresos y comparación de ingresos entre diferentes ubicaciones.
 
-Ingreso total por tienda: Determinar cuál es la tienda con mayores ingresos y cómo varían estos entre las diferentes ubicaciones.
+Productos más demandados: Determinación de las categorías y productos más populares en cada tienda, basándonos en el volumen de ventas.
 
-Productos más demandados: Identificar las categorías y productos más populares en cada tienda, basándonos en el volumen de ventas.
+Evaluaciones de clientes: Cálculo del promedio de valoraciones otorgadas por los clientes, en busca de patrones de satisfacción.
 
-Evaluaciones de clientes: Calcular el promedio de las valoraciones dadas por los clientes, buscando patrones de satisfacción.
+Productos más y menos vendidos: Análisis de los productos con mayor y menor rendimiento por tienda.
 
-Productos más y menos vendidos: Analizar cuáles son los productos más vendidos y aquellos con menor rendimiento en cada tienda.
+Costo promedio de envío: Estimación del costo promedio de envío de productos desde cada tienda hacia los clientes.
 
-Costo promedio de envío: Calcular el costo promedio de envío de los productos a los clientes desde las diferentes tiendas.
+Análisis e interpretación de resultados: Resumen de los hallazgos más relevantes y propuestas de recomendaciones basadas en los datos obtenidos.
 
-Análisis e interpretación de resultados: Sumarizar los hallazgos más importantes y proporcionar recomendaciones basadas en los datos analizados.
-
-Herramientas y Tecnologías
+🛠️ Herramientas y Tecnologías
 Entorno de desarrollo: Jupyter Notebook / Google Colab
 
 Lenguaje de programación: Python
 
-Bibliotecas principales: Pandas (para procesamiento y análisis de datos), Matplotlib (para visualización) y Numpy
+Bibliotecas utilizadas:
 
-Este proyecto tiene como finalidad proporcionar una visión completa y accionable sobre el desempeño de las tiendas, permitiendo identificar áreas de mejora y entender el comportamiento de los clientes a través de los datos.
+pandas: procesamiento y análisis de datos
+
+matplotlib: visualización de datos
+
+numpy: manipulación de datos numéricos
+
+🎯 Objetivo
+Este proyecto busca ofrecer una visión clara, integral y accionable sobre el rendimiento de las tiendas. A través del análisis de datos, se pretende identificar áreas de mejora y comprender mejor el comportamiento del cliente, facilitando así la toma de decisiones basada en evidencia.
